@@ -7,8 +7,8 @@
 ## 🔗 Project Showcase & Live Links
 - 🎨 **[View Full UI/UX Case Study on Behance](https://www.behance.net/gallery/253483649/Notara-AI-Research-Note-UIUX-Case-Study)** 
 - 📱 **[Test Interactive Figma Prototype](https://www.figma.com/proto/LH6XFaYqAr7XG6VgNC0Bc3/Notara?node-id=1-5978&t=TVBVowjNa6LX3LXw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5978&show-proto-sidebar=1&fuid=1679225730715696277)**
-- 📊 **[View Design Thinking Slide Deck (PDF)](./Notara\_Design\_Thinking\_Presentation.pdf)**
-- 📄 **[View Full System & UX Analysis Documentation (PDF)](./Notara\_System\_and\_UX\_Analysis.pdf)**
+- 📊 **[View Design Thinking Slide Deck (PDF)](./Notara..pdf)**
+- 📄 **[View Full System & UX Analysis Documentation (PDF)](./Notara..pdf)**
 
 ---
 
@@ -38,7 +38,7 @@ This project was built following the 5 human-centered stages of the **Design Thi
 ## 🛠️ Tools & Design Methodologies
 - **UI/UX Design Tool:** Figma
 - **Methodology:** Design Thinking, System Analysis, User Personas, Wireframing
-- **Target Platform:** Mobile Application (iOS & Android)
+- **Target Platform:** Android Mobile Application
 
 ---
 
