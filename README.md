@@ -56,9 +56,8 @@ This project was built following the 5 human-centered stages of the **Design Thi
 
 ---
 
-🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)
-
-© 2026 Volunteer Management System Team. All rights reserved.
+## 🔒 Copyright & Terms of Use:
+© 2026 **Malak Elyan**. All rights reserved.
 
 ---
 ⭐ If you found this project useful, feel free to star it!
