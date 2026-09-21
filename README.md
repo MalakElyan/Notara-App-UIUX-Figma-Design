@@ -1,4 +1,13 @@
-# 🚀 Notara (نوتارا) — AI-Powered Academic Productivity & Mobile UI/UX Case Study
+# 🚀 Notara — AI-Powered Academic Productivity & Mobile UI/UX Case Study
+
+---
+
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Target_Platform-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-Case_Study-1769FF?style=for-the-badge&logo=behance&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Methodology-Design_Thinking-FF6F00?style=for-the-badge&logo=figma&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI-Document_Synthesis-7400B8?style=for-the-badge&logo=openai&logoColor=white)
+
 
 **Notara** is an advanced, AI-driven mobile productivity platform designed in **Figma** to unify and simplify digital workflows for students, educators, and professionals. It integrates **AI document synthesis**, **real-time OCR handwriting conversion**, and **contextual audio anchoring** into an immersive, distraction-free workspace.
 
@@ -40,6 +49,16 @@ This project was built following the 5 human-centered stages of the **Design Thi
 - **Target Platform:** Android Mobile Application
 
 ---
-
+---
+## 🔗 Connect with Me
+- 🐙 **GitHub:** [@MalakElyan](https://github.com/MalakElyan) 
+- 💼 **LinkedIn:** [Malak Elyan](https://www.linkedin.com/in/malak-elyan) 
 
 ---
+
+🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)
+
+© 2026 Volunteer Management System Team. All rights reserved.
+
+---
+⭐ If you found this project useful, feel free to star it!
